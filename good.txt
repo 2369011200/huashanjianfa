@@ -2,4 +2,4 @@ new good.txt
 one moreline
 two more line
 three more line
-four more line edit testconflict 
+four more line edit master 
